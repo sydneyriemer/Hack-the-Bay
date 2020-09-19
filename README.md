@@ -1,5 +1,5 @@
 # Hack-the-Bay
-My solution to Booz Allen Hamilton's Hack the Bay challenge
+My solution to [Booz Allen Hamilton's Hack the Bay challenge](https://hack-the-bay.devpost.com/)
 
 ## Python files:
 * **data_exploration_geo.py**: loads in USGS shapefiles (Peper et al., 2001) of lithogeochemical map and plots water quality data on top of map

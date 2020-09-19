@@ -22,4 +22,4 @@ PNG files of maps and figures generated for this project are contained in the fo
 
 ## Data sources
 1. Peper, J. D., McCartan, L., Horton Jr, J. W., & Reddy, J. E. (2001). Preliminary lithogeochemical map showing near-surface rock types in the Chesapeake Bay watershed, Virginia and Maryland (No. 2001-187). https://pubs.usgs.gov/of/2001/of01-187/ 
-2. CBP/CMC water quality dataset provided by Booz Allen Hamilton
+2. [CBP/CMC water quality dataset](https://github.com/Hack-the-Bay/hack-the-bay) provided by Booz Allen Hamilton
